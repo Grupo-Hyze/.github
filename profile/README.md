@@ -1,12 +1,5 @@
-## Hi there 👋
+![apresentacao3](https://github.com/hyzecorp/.github/assets/43623751/3af23989-5826-4ae8-aade-25f3e7e770fe)
 
-<!--
+##
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Fundada com uma paixão por jogos online, a **HYZE** é líder na criação, desenvolvimento, produção e publicação de servidores de alta qualidade. Nossa missão é proporcionar experiências multiplayer inigualáveis, alavancando tecnologia de ponta e uma equipe dedicada para entregar mundos virtuais onde os jogadores podem se conectar, inovar e se divertir. Com um foco estratégico no metaverso, estamos expandindo nossa plataforma para oferecer um ecossistema digital onde comunidades possam emergir e prosperar, unindo jogadores de todo o mundo em aventuras e experiências compartilhadas mais imersivas.
